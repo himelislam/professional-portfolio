@@ -48,7 +48,7 @@ h1{
 }
 .ex-area-part{
     display: flex;
-    margin: 
+    margin: 5px;
 }
 .ex-area-part h3{
     color: blue;
