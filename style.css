@@ -18,8 +18,10 @@ body{
 .link-color{
     padding: 10px 40px;
     text-decoration: none;
-    background-image: linear-gradient(red,yellow);
+    background-image: linear-gradient(red,orange);
     border-radius: 10px;
+    color: white;
+    font-weight: 700;
 }
 h1{
     font-size: 50px;
@@ -69,4 +71,7 @@ h1{
     border-image:linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
     padding: 15px;
+}
+footer{
+    text-align: center;
 }
